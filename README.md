@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, kubernetes and microservices**
 
-- 💬 Ask me about **React, Unity or blockchain**
+- 💬 Ask me about **React or Unity**
 
 - 📫 How to reach me **echi.wael@gmail.com**
 
