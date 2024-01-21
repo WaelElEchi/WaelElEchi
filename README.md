@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **echi.wael@gmail.com**
 
-- 🌀 Looking forward to contributing frequently in 2023
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
