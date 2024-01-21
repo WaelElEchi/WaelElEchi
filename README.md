@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wael El Echi</h1>
 <h3 align="center">A passionate full stack developer from Tunisia, I do Gamedev as a hobby</h3>
 
-- 🌱 I’m currently learning **Docker, kubernetes and graphics programming**
 
 - 💬 Ask me about **React or Unity**
 
